@@ -1,4 +1,4 @@
-# PNGe500
+# Wath This Tool Doing ? 
 Converting image to PNG and Resize to 500x500 px
 
 # Requirements
