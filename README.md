@@ -5,4 +5,6 @@ Converting image to PNG and Resize to 500x500 px
 - tkinter
 - pillow
 # How to install Requirements
-  pip install -r requirements.txt
+ Run the following command:
+ 
+    pip install -r requirements.txt
