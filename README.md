@@ -1,4 +1,4 @@
-# Wath This Tool Doing ? 
+# what This Tool Doing ? 
 Using this program, the user can select multiple images, remove their backgrounds, resize the images, and then save the final image in the desired format.
 
 # Requirements
