@@ -1,5 +1,5 @@
 # Wath This Tool Doing ? 
-Converting image to PNG and Resize to 500x500 px
+Using this program, the user can select multiple images, remove their backgrounds, resize the images, and then save the final image in the desired format.
 
 # Requirements
 - pillow
