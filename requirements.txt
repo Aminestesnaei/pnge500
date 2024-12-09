@@ -1,0 +1,5 @@
+customtkinter
+pillow
+rembg
+io
+onnxruntime
