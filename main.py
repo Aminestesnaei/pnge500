@@ -6,8 +6,6 @@ from PIL import Image
 from rembg import remove
 import io
 
-# onnxruntime needed
-
 def select_image():
     global image_paths
     # انتخاب کردن عکس
